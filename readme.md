@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 
 This is the project for NUS EE4305 (Fuzzy Neural Networks) for AY16/17 S1. 
@@ -8,7 +8,7 @@ For this project, we are given both a classification problem (multi-class) invol
 Read the pdf for more information.
 
 ---------------------------------------------------------------------------
-##How To Run The Code
+## How To Run The Code
 To run my python scripts, use Python 2.7 and
 
 1. Open a terminal console
@@ -16,7 +16,7 @@ To run my python scripts, use Python 2.7 and
 3. Type `python classification.py` or `python regression.py` respectively and press enter
 
 ---
-##Dependencies to Install
+## Dependencies to Install
 __Please Note:__ There are some python dependencies to install (recommended to use `pip`):
 
 
